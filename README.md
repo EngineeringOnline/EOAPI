@@ -1,4 +1,5 @@
 EOAPI
 =====
 
-Please contact info@engineeringonline.de for further API information
+Please contact info [at] engineeringonline.de for further API information
+ 
